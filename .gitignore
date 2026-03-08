@@ -1,0 +1,11 @@
+# Never commit real identity documents
+*.jpg
+*.jpeg
+*.png
+*.pdf
+manifest.json
+
+# Only template is allowed
+!manifest.template.json
+
+.DS_Store
