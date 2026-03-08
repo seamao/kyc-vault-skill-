@@ -1,11 +1,13 @@
 ---
 name: kyc_vault
-description: Automates KYC identity verification by securely managing and submitting identity documents. Always asks user permission before accessing or uploading any file.
+description: "Automates KYC identity verification by securely managing and submitting identity documents. Always asks user permission before accessing or uploading any file. | 自动完成网站 KYC 身份认证，安全管理并提交本地存储的证件文件。每次访问或上传文件前都会请求用户授权。"
 ---
 
 # KYC Vault Skill
 
 This skill automates KYC (Know Your Customer) identity verification on websites using locally stored identity documents.
+
+本 Skill 使用本地存储的证件文件，自动完成各网站的 KYC（身份认证）流程。
 
 ---
 
