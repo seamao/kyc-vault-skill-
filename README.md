@@ -22,7 +22,7 @@ mkdir -p ~/.openclaw/workspace/skills/kyc-vault
 
 # 下载 SKILL.md
 curl -o ~/.openclaw/workspace/skills/kyc-vault/SKILL.md \
-  https://raw.githubusercontent.com/seamao/kyc-vault-skill/main/SKILL.md
+  https://raw.githubusercontent.com/seamao/kyc-vault-skill-/main/SKILL.md
 ```
 
 ### 3. 创建你的 Identity Vault
@@ -35,7 +35,7 @@ mkdir -p ~/identity-vault
 
 ```bash
 curl -o ~/identity-vault/manifest.json \
-  https://raw.githubusercontent.com/seamao/kyc-vault-skill/main/manifest.template.json
+  https://raw.githubusercontent.com/seamao/kyc-vault-skill-/main/manifest.template.json
 ```
 
 ### 4. 填写你的信息
